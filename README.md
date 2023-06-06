@@ -36,3 +36,13 @@ Created a box plot that shows the distribution of the final tumor volume for all
 In summary, the study on SCC tumor treatments revealed that Capomulin, one of Pymaceuticals' drugs of interest, demonstrated significant improvements in reducing SCC tumor growth compared to other treatments. Capomulin resulted in a relatively small final tumor volume with a low standard deviation, and was efficiently able to reduce tumor growth over time.
 
 The cleaned data was used to generate various charts and tables, giving us a deeper understanding of the data trends and affecting factors of SCC tumor growth. The technical report derived from the analysis of this study will be used by Pymaceuticals to understand and improve their SCC tumor treatment offerings, and additionally by researchers in the medical community to gain insights on the best course of action for fighting SCC.
+
+**Refrences**
+- Official Python documentation: https://docs.python.org/3/
+- NumPy documentation: https://numpy.org/doc/
+- Pandas documentation: https://pandas.pydata.org/docs/
+- Matplotlib documentation: https://matplotlib.org/3.3.3/contents.html
+- Seaborn documentation: https://seaborn.pydata.org/
+- Stack Overflow: https://stackoverflow.com/
+- GitHub: https://github.com/
+
